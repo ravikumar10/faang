@@ -1,0 +1,9 @@
+Problem Statement : designing-youtube-or-netflix
+
+Functional Requirements:
+
+Users should be able to upload videos.
+Users should be able to share and view videos.
+Users should be able to perform searches based on video titles.
+Our services should be able to record stats of videos, e.g., likes/dislikes, total number of views, etc.
+Users should be able to add and view comments on videos.
