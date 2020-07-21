@@ -1,0 +1,6 @@
+Problem Statement : Design Lookahead system
+
+Functional Requirements:
+
+Give a list of query suggestions based on user input (as a prefix)
+Suggestions ordered by some ranking score
