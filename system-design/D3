@@ -4,3 +4,7 @@ Functional Requirements:
 
 Give a list of query suggestions based on user input (as a prefix)
 Suggestions ordered by some ranking score
+
+Solution Link :
+
+https://medium.com/@dingdingsherrywang/system-design-autocomplete-62420021adb0
