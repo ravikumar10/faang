@@ -24,7 +24,7 @@ import java.util.Map;
 
 public class P1 {
     public static void main(String[] args) {
-        System.out.println(findLongestLength("araaci", 2));
+        System.out.println(findLongestLength("araaciaaaa", 2));
         System.out.println(findLongestLength("cbbebi", 3));
 
     }
